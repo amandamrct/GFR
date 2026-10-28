@@ -1,0 +1,22 @@
+{
+  "name": "gfr-games-for-real-insights",
+  "private": true,
+  "version": "1.0.0",
+  "description": "GFR: dashboard de métricas para streamers. Projeto de portfólio de UX/UI e front-end.",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "data": "node scripts/generate-data.js"
+  },
+  "dependencies": {
+    "react": "18.3.1",
+    "react-dom": "18.3.1",
+    "react-router-dom": "6.28.0"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "4.3.4",
+    "vite": "5.4.11"
+  }
+}
