@@ -8,8 +8,7 @@ Site: https://gfrinsights.netlify.app/
 
 ![Visão geral do GFR](docs/visao-geral.png)
 
-**Demonstração:** _cole aqui o link da Vercel depois do deploy_
-
+**Demonstração:** (https://gfrinsights.netlify.app/)
 ## O problema
 
 Streamers pequenos e médios têm os números espalhados entre as plataformas e não conseguem comparar jogos, dias e horários entre si. O GFR junta tudo num lugar só e responde perguntas diretas: em que dia e horário vale a pena fazer live? Qual jogo traz mais seguidores? Quanto falta para a próxima meta?
