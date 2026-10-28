@@ -84,11 +84,9 @@ src/
   config.js            contato que recebe os pedidos de telas
 ```
 
-## Deploy
-
-O projeto está pronto para a [Vercel](https://vercel.com): importe o repositório do GitHub e mantenha as configurações padrão do Vite. O arquivo `vercel.json` faz as rotas funcionarem ao recarregar a página.
 
 ## Autora
 
-**Amanda Maricato**, UX/UI designer e desenvolvedora front-end.
-_Adicione aqui os links do seu LinkedIn e do seu Behance._
+**Amanda Maricato - TORIM **, UX/UI designer e desenvolvedora front-end.
+LinkedIn: linkedin.com/in/amanda-maricato-175b1b1b5/
+Behance: https://www.behance.net/amandamaricato
