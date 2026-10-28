@@ -2,6 +2,8 @@
 
 Painel de métricas para streamers: mostra como cada live, jogo e horário se saiu e transforma os números em recomendações práticas. Projeto de portfólio de UX/UI e front-end.
 
+Site: https://gfrinsights.netlify.app/
+
 > O canal **Pixel Noturno**, os apoiadores e todas as métricas são **fictícios**, gerados por script. O GFR não tem ligação com a Twitch, o YouTube ou a Kick.
 
 ![Visão geral do GFR](docs/visao-geral.png)
